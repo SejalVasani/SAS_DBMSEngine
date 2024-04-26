@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "HelloWorld.C": "cpp",
+        "DBMS.C": "cpp",
+        "stdio.h": "c",
+        "bit": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "type_traits": "cpp",
+        "cmath": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "string.h": "c"
+    }
+}
